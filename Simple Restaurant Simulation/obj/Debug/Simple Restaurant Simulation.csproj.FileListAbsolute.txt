@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Simple Restaurant Simulation\bin\Debug\Simple Restaurant Simulation.exe.config
+C:\Users\HP\source\repos\Simple Restaurant Simulation\bin\Debug\Simple Restaurant Simulation.exe
+C:\Users\HP\source\repos\Simple Restaurant Simulation\bin\Debug\Simple Restaurant Simulation.pdb
+C:\Users\HP\source\repos\Simple Restaurant Simulation\obj\Debug\Simple Restaurant Simulation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Simple Restaurant Simulation\obj\Debug\Simple_Restaurant_Simulation.Form1.resources
+C:\Users\HP\source\repos\Simple Restaurant Simulation\obj\Debug\Simple_Restaurant_Simulation.Properties.Resources.resources
+C:\Users\HP\source\repos\Simple Restaurant Simulation\obj\Debug\Simple Restaurant Simulation.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Simple Restaurant Simulation\obj\Debug\Simple Restaurant Simulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Simple Restaurant Simulation\obj\Debug\Simple Restaurant Simulation.exe
+C:\Users\HP\source\repos\Simple Restaurant Simulation\obj\Debug\Simple Restaurant Simulation.pdb
